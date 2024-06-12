@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1001133270514",
+    "firebase_url": "https://stem-project-capstone-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "stem-project-capstone",
+    "storage_bucket": "stem-project-capstone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001133270514:android:3eb75f51295bec9451f76b",
+        "android_client_info": {
+          "package_name": "com.example.stemcapstoneproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg0ub-WfqZDYDiVBzcqYkU_UrHmP428KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
